@@ -1,0 +1,5 @@
+
+| Vul. ID  |  Targetescription |  Status
+|  ----  | ----  |
+|   |   |
+|   |   |
