@@ -56,10 +56,10 @@
 | 54      | Link TEE Air | NULL pointer dereference                              |                            |
 | 55      | Link TEE Air | NULL pointer dereference                              |                            |
 | 56      | Link TEE Air | NULL pointer dereference                              |                            |
-| 57      | Link TEE Air |                                                       |                            |
+| 57      | Link TEE Air | Buffer overflow                                       |                            |
 | 58      | Link TEE Air | NULL pointer dereference                              |                            |
 | 59      | Link TEE Air | NULL pointer dereference                              |                            |
-| 60      | Link TEE Air |                                                       |                            |
+| 60      | Link TEE Air | Buffer overflow                                       |                            |
 | 61      | Link TEE Air |                                                       |                            |
 | 62      | Link TEE Air | NULL pointer dereference                              |                            |
 | 63      | Link TEE Air | NULL pointer dereference                              |                            |
@@ -73,4 +73,4 @@
 | 71      | Link TEE Air |                                                       |                            |
 | 72      | Link TEE Air | NULL pointer dereference                              |                            |
 | 73      | Link TEE Air |                                                       |                            |
-| 74      | Link TEE Air |                                                       |                            |
+| 74      | Link TEE Air | Untrusted pointer dereference                         |                            |
