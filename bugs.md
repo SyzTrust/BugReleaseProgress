@@ -53,24 +53,24 @@
 | 51      | TinyTEE      | Untrusted pointer dereference                         | CVE-2023-30043 (Reserved)  |
 | 52      | TinyTEE      | Untrusted pointer dereference                         | CVE-2023-30044 (Reserved)  |
 | 53      | TinyTEE      | Untrusted pointer dereference                         | CVE-2023-30041 (Reserved)  |
-| 54      | Link TEE Air | NULL pointer dereference                              |                            |
-| 55      | Link TEE Air | NULL pointer dereference                              |                            |
-| 56      | Link TEE Air | NULL pointer dereference                              |                            |
-| 57      | Link TEE Air | Buffer overflow                                       |                            |
-| 58      | Link TEE Air | NULL pointer dereference                              |                            |
-| 59      | Link TEE Air | NULL pointer dereference                              |                            |
-| 60      | Link TEE Air | Buffer overflow                                       |                            |
+| 54      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 55      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 56      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 57      | Link TEE Air | Buffer overflow                                       | reported                   |
+| 58      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 59      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 60      | Link TEE Air | Buffer overflow                                       | reported                   |
 | 61      | Link TEE Air |                                                       |                            |
-| 62      | Link TEE Air | NULL pointer dereference                              |                            |
-| 63      | Link TEE Air | NULL pointer dereference                              |                            |
-| 64      | Link TEE Air | NULL pointer dereference                              |                            |
+| 62      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 63      | Link TEE Air | NULL pointer dereference                              | reported                   |
+| 64      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 65      | Link TEE Air |                                                       |                            |
-| 66      | Link TEE Air | NULL pointer dereference                              |                            |
+| 66      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 67      | Link TEE Air |                                                       |                            |
-| 68      | Link TEE Air | NULL pointer dereference                              |                            |
+| 68      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 69      | Link TEE Air |                                                       |                            |
-| 70      | Link TEE Air | NULL pointer dereference                              |                            |
+| 70      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 71      | Link TEE Air |                                                       |                            |
-| 72      | Link TEE Air | NULL pointer dereference                              |                            |
+| 72      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 73      | Link TEE Air |                                                       |                            |
-| 74      | Link TEE Air | Untrusted pointer dereference                         |                            |
+| 74      | Link TEE Air | Untrusted pointer dereference                         | reported                   |
