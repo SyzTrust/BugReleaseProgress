@@ -60,17 +60,17 @@
 | 58      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 59      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 60      | Link TEE Air | Buffer overflow                                       | reported                   |
-| 61      | Link TEE Air |                                                       |                            |
+| 61      | Link TEE Air | Untrusted pointer dereference                         | reported                   |
 | 62      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 63      | Link TEE Air | NULL pointer dereference                              | reported                   |
 | 64      | Link TEE Air | NULL pointer dereference                              | reported                   |
-| 65      | Link TEE Air |                                                       |                            |
+| 65      | Link TEE Air | Untrusted pointer dereference                         | reported                   |
 | 66      | Link TEE Air | NULL pointer dereference                              | reported                   |
-| 67      | Link TEE Air |                                                       |                            |
+| 67      | Link TEE Air | Buffer overflow                                       | duplicated with No.60      |
 | 68      | Link TEE Air | NULL pointer dereference                              | reported                   |
-| 69      | Link TEE Air |                                                       |                            |
+| 69      | Link TEE Air | Buffer overflow                                       | reported                   |
 | 70      | Link TEE Air | NULL pointer dereference                              | reported                   |
-| 71      | Link TEE Air |                                                       |                            |
+| 71      | Link TEE Air | Buffer overflow                                       | duplicated with No.60      |
 | 72      | Link TEE Air | NULL pointer dereference                              | reported                   |
-| 73      | Link TEE Air |                                                       |                            |
+| 73      | Link TEE Air | Buffer overflow                                       | reported                   |
 | 74      | Link TEE Air | Untrusted pointer dereference                         | reported                   |
