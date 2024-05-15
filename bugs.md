@@ -9,7 +9,7 @@
 | 7       | mTower       | Buffer overflow                                       | CVE-2022-40760 (7.5 HIGH)  |
 | 8       | mTower       | Buffer overflow                                       | CVE-2022-40757  (7.5 HIGH) |
 | 9       | mTower       | Buffer overflow                                       | CVE-2022-40758  (7.5 HIGH) |
-| 10      | mTower       | Buffer overflow                                       | Reported                   |
+| 10      | mTower       | Buffer overflow                                       | Confirmed                  |
 | 11      | mTower       | Buffer overflow                                       | Confirmed                  |
 | 12      | mTower       | Missing release of memory  after effective lifetime   | CVE-2022-35858  (7.8 HIGH) |
 | 13      | mTower       | NULL pointer dereference                              | CVE-2022-40759  (7.5 HIGH) |
